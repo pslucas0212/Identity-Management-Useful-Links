@@ -1,4 +1,4 @@
-# Red Hat Enterprise Linus and Identity Management
+# Red Hat Enterprise Linux and Identity Management
 
 ### Directory Services
 - (What is the support status of the LDAP servers shipped with Red Hat Enterprise Linux?)[https://access.redhat.com/solutions/2440481#:~:text=The%20OpenLDAP%20server%20package%20is%20part%20of%20Red%20Hat%20Enterprise%20Linux]
